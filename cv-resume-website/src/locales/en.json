@@ -1,0 +1,82 @@
+{
+  "projectsData": [
+    {
+      "id": 1,
+      "title": "Work in Pizza",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim/workinpizza",
+      "siteLink": "https://vercel.app",
+      "technologies": ["React", "JavaScript", "Style-Comp"]
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim",
+      "siteLink": "https://vercel.app/",
+      "technologies": ["React", "JavaScript", "TailwindCss"]
+    },
+    {
+      "id": 3,
+      "title": "Project 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim",
+      "siteLink": "https://vercel.app/",
+      "technologies": ["React", "JavaScript", "CSS"]
+    }
+  ],
+  "projects": "Projects",
+  "entry": "Creative thinker, minimalism lover",
+  "heroAbout": "Hi, I`m Ege Yıldırım. I`m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great use experiences. Let's shake hands with me.",
+  "skills": "Skills",
+  "skillsData": [
+    {
+      "name": "JavaScript",
+      "description": "JavaScript is a powerful programming language used to create dynamic content on web pages."
+    },
+    {
+      "name": "React.Js",
+      "description": "React is a component-based JavaScript library used to build user interfaces."
+    },
+    {
+      "name": "Node.Js",
+      "description": "Node.js is a platform that allows JavaScript to be run on the server side. It is ideal for building high-performance applications."
+    },
+    {
+      "name": "VS Code",
+      "description": "Visual Studio Code is a popular code editor for software development. It offers a user-friendly interface and supports many extensions."
+    },
+    {
+      "name": "Redux",
+      "description": "Redux is a library used for managing application state. It is commonly used with React applications."
+    },
+    {
+      "name": "Figma",
+      "description": "Figma is an online design tool used for UI design and prototyping. It makes collaboration among teams easier."
+    },
+    {
+      "name": "TailwindCss",
+      "description": "Tailwind CSS is a CSS framework used to quickly create customized user interfaces. It stands out with its utility-first approach."
+    }
+  ],
+  "hireme": "Hire Me",
+  "wiewSite": "View Site",
+  "footerAbout": "Let's work together on your\nnext product",
+  "profile": "Profile",
+  "birthDate": "Birth Date",
+  "residence": "Residence",
+  "education": "Education",
+  "role": "Role",
+  "aboutMe": "About Me",
+  "aboutMeValue": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "birthDateValue": "17.06.1996",
+  "residenceValue": "Balıkesir",
+  "educationValue": "Ege University, International Relations /n Graduate date: 2020",
+  "roleValue": "Full-Stack Developer",
+  "toastMail": "You are being redirected to e-mail...",
+  "toastGithub": "You are being redirected to Github...",
+  "toastLinkedin": "You are being redirected to Linkedin..."
+}

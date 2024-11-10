@@ -1,0 +1,82 @@
+{
+  "projectsData": [
+    {
+      "id": 1,
+      "title": "Work in Pizza",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim/workinpizza",
+      "siteLink": "https://vercel.app",
+      "technologies": ["React", "JavaScript", "Style-Comp"]
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim/",
+      "siteLink": "https://vercel.app/",
+      "technologies": ["React", "JavaScript", "TailwindCss"]
+    },
+    {
+      "id": 3,
+      "title": "Project 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "../assets/workinpizza.png",
+      "githubLink": "https://github.com/eqeyildirim/",
+      "siteLink": "https://vercel.app/",
+      "technologies": ["React", "JavaScript", "CSS"]
+    }
+  ],
+  "projects": "Projeler",
+  "entry": "Yaratıcı düşünen, minimalizmi seven.",
+  "heroAbout": "Merhaba, ben Ege Yıldırım. Ben bir full-stack geliştiricisiyim. Eğer sağlam ve ölçeklenebilir frontend ürünleri tasarlayacak bir geliştirici arıyorsanız, harika kullanıcı deneyimleri sunuyorum. Benimle el sıkışalım.",
+  "skills": "Yetenekler",
+  "skillsData": [
+    {
+      "name": "JavaScript",
+      "description": "JavaScript, web sayfalarında dinamik içerikler oluşturmak için kullanılan güçlü bir programlama dilidir."
+    },
+    {
+      "name": "React.Js",
+      "description": "React, kullanıcı arayüzleri oluşturmak için kullanılan, bileşen tabanlı bir JavaScript kütüphanesidir."
+    },
+    {
+      "name": "Node.Js",
+      "description": "Node.js, sunucu tarafında JavaScript çalıştırmayı sağlayan bir platformdur. Yüksek performanslı uygulamalar geliştirmek için idealdir."
+    },
+    {
+      "name": "VS Code",
+      "description": "Visual Studio Code, yazılım geliştirme için popüler bir kod editörüdür. Kullanıcı dostu arayüzü ile pek çok uzantı desteği sunar."
+    },
+    {
+      "name": "Redux",
+      "description": "Redux, uygulama durumunu yönetmek için kullanılan bir kütüphanedir. Özellikle React uygulamaları ile birlikte yaygın olarak kullanılır."
+    },
+    {
+      "name": "Figma",
+      "description": "Figma, kullanıcı arayüzü tasarımı ve prototipleme için kullanılan çevrimiçi bir tasarım aracıdır. Ekiplerin birlikte çalışmasını kolaylaştırır."
+    },
+    {
+      "name": "TailwindCss",
+      "description": "Tailwind CSS, hızlı bir şekilde özelleştirilmiş kullanıcı arayüzleri oluşturmak için kullanılan bir CSS framework'üdür. Utility-first yaklaşımı ile dikkat çeker."
+    }
+  ],
+  "hireme": "İşe Al",
+  "wiewSite": "Siteye git",
+  "footerAbout": "Bir sonraki ürününüz üzerinde birlikte çalışalım",
+  "profile": "Profil",
+  "birthDate": "Doğum Tarihi",
+  "residence": "Yer",
+  "education": "Eğitim Durumu",
+  "role": "Rol",
+  "aboutMe": "Hakkımda",
+  "aboutMeValue": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "birthDateValue": "17.06.1996",
+  "residenceValue": "Balıkesir",
+  "educationValue": "Yalova Üniversitesi Uluslararası İlişkiler \n Lisans 2020",
+  "roleValue": "Full-Stack Developer",
+  "toastMail": "Mail adresine yönlendiriliyorsunuz...",
+  "toastGithub": "Github'a yönlendiriliyorsunuz...",
+  "toastLinkedin": "Linkedin'e yönlendiriliyorsunuz..."
+}
